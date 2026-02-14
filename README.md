@@ -15,5 +15,5 @@ Turning conversations into paying clients. 💰
 ---
 
 ## 📩 Contact
-Email: 966amnsystems@pgmail.com
+Email: 966amnsystems@gmail.com
 WhatsApp: https://wa.me/message/LI4EMP3XR4E2K1
