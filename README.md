@@ -1,8 +1,5 @@
 ## 👤 Mohammad Aman
 
-<!--
-**966amnsystems/966amnsystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # ⚡ AMN Systems
 
 Turning conversations into paying clients. 💰
